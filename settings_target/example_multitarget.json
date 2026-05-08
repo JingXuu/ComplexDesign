@@ -1,0 +1,9 @@
+{
+    "design_path": "./results/multitarget_1NSG/",
+    "binder_name": "1NSG",
+    "starting_pdb": "./example/1NSG.pdb",
+    "chains": "A,C",
+    "target_hotspot_residues": "",
+    "lengths": [10, 110],
+    "number_of_final_designs": 32
+}

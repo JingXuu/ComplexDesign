@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+.env
+
+# Editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime artifacts
+nohup.out
+*.log
+
+# Outputs
+results/
+outputs/
+analysis/
+analyses/
+logs/
+checkpoints/
+demo_results/
+
+# Large local assets
+params/
+
+# Caches and archives
+.pytest_cache/
+*.zip
+*.tar
+*.tar.gz
+.codex

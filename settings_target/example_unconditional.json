@@ -1,0 +1,6 @@
+{
+    "design_path": "./results/unconditional_complex_50_100/",
+    "complex_name": "Complex-50-100",
+    "complex_lengths": [50, 100],
+    "number_of_final_designs": 32
+}
