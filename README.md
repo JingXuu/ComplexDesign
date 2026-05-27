@@ -50,9 +50,10 @@ python complexdesign_multitarget.py \
 
 ## Input requirements
 
-For **multi-target binder design**, the input PDB should contain exactly two protein target chains.
+For **multi-target binder design**, the input PDB should contain exactly two protein target chains. The target-pair structures used for the multi-target binder-design benchmark are provided in `data/target_pairs/`. These structures were derived from MG-PDB, a curated dataset of molecular-glue-mediated ternary protein complexes ([Liao et al., 2025](https://doi.org/10.1021/acs.jcim.5c01860)).
 
 For **unconditional multichain generation**, no input structure is required. Chain lengths are specified by `complex_lengths` in the target-setting JSON file.
+
 
 ## Configuration Files
 
